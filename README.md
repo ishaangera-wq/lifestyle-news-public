@@ -1,5 +1,4 @@
-# Lifestyle News Public
+# Public Lifestyle Dashboard
 
-This repository hosts the public static site for the lifestyle dashboard.
-
-The scraper and refresh workflow live in a separate private repository.
+This repository is the published static site for the lifestyle dashboard.
+Source code and scraping workflow live in a separate private repository.
